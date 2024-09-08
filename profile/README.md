@@ -1,6 +1,6 @@
 ## Hi there 👋
 Welcome to Priyannik!<br>
-This is an organisation managed by CatDev (@ElectroBoy404NotFound) and Priyanchu (no github)
+This is an organisation managed by CatDev (@ElectroBoy404NotFound) and Priyanshu (no github)
 <!--
 
 **Here are some ideas to get you started:**
